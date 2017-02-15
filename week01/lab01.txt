@@ -1,0 +1,23 @@
+total 76
+drwxr-xr-x 18 reinhard.hotma StafCS 4096 Feb 16 00:21 .
+drwx--x--x  3 reinhard.hotma StafCS 4096 Feb 16 00:16 ..
+drwxr-xr-x  8 reinhard.hotma StafCS 4096 Feb 16 00:20 .git
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 key
+-rw-r--r--  1 reinhard.hotma StafCS    0 Feb 16 00:21 lab01.txt
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 log
+-rw-r--r--  1 reinhard.hotma StafCS    7 Feb 16 00:01 README.md
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:11 sandbox
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:18 week00
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:04 week01
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:04 week02
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:04 week03
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:04 week04
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:04 week05
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:04 week06
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 week07
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 week08
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 week09
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 week10
+drwxr-xr-x  2 reinhard.hotma StafCS 4096 Feb 16 00:05 xtra
+/home/fasilkom/mahasiswa/r/reinhard.hotma/os171/week01
+Today is 16 Feb 2017 at 00:37:36
