@@ -1,0 +1,5 @@
+Pada week01 ini, tugas yang diberikan berkisar di penggunaan fitur push dan
+pull di git, serta penggunaan command line yang ada  bertujuan agar kita 
+lebih familiar dengan command line, serta dengan berbagai fungsi-fungsi yang 
+dimiliki. Selain itu, tugas-tugas yang ada juga bertujuan agar kita terbiasa 
+melakukan evaluasi ataupun mengontrol progress" file yang kita miliki
