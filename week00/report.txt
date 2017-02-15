@@ -1,0 +1,4 @@
+Pada week0 kemarin, tugas yang diberikan masih berupa pengenalan dan pendaftaran 
+mahasiswa ke server, seperti mendaftar melalui GoogleForm serta GitHub, selain itu
+kita juga mencoba untuk mengakses ke server badak melalui server kawung
+#ReinhardHotmaDanielSiregar
