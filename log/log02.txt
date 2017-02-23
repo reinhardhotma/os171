@@ -6,5 +6,7 @@ w02-170221-13-LR-Learning about protection & security from lecturer
 w02-170221-13-LR-Learning about protection & security from lecturer
 w02-170221-14-LR-Learning about protection & security from lecturer
 w02-170221-14-LR-Learning about protection & security from lecturer
-w02-170223-13-LR-
-
+w02-170223-13-LR-Introduction to C
+w02-170223-13-LR-Introduction to C
+w02-170223-14-LR-Introduction to C
+w02-170223-14-LR-Introduction to C
